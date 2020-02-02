@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Input from './component/input';
-import axios from 'axios'
+import axios from 'axios';
 import './index.css';
 
 class App extends Component {
